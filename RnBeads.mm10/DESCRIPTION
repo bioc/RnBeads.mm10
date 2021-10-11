@@ -1,0 +1,12 @@
+Package: RnBeads.mm10
+Title: RnBeads.mm10
+Description: Automatically generated RnBeads annotation package for the assembly mm10.
+Author: RnBeads Team
+Maintainer: RnBeads Team <team@rnbeads.org>
+Date: 2021-10-07
+License: GPL-3
+Version: 2.0
+Depends: 
+	R (>= 3.5.0),	GenomicRanges
+Suggests: 
+	RnBeads

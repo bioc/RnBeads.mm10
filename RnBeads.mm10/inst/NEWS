@@ -1,0 +1,24 @@
+RnBeads.mm10 2.0.1
+=================
+
+* Temporarily rolled Ensemble version back to 75 to eliminate numerous non-coding transcripts 
+* Methylation array information based on the latest manifest file
+
+RnBeads.mm10 2.0
+==================
+
+* Release May 2021
+* Added annotation for the Mouse Methylation Bead Chip (thanks to Maxi Schoenung for his great contribution!).
+* Updated SNP information to GRCm38.p4, the last version available through NCBI.
+
+RnBeads.mm10 1.0.1
+==================
+
+ * Added information on a genomic sequence package.
+ * Added information on targeted chromosomes.
+ * Updated all anotation tables.
+
+RnBeads.mm10 1.0.0
+==================
+
+ * Initial release of RnBeads.mm10.
