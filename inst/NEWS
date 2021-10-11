@@ -1,4 +1,11 @@
-RnBeads.mm10 2.0
+RnBeads.mm10 2.1.1
+=================
+
+* Temporarily rolled Ensemble version back to 75 to eliminate numerous non-coding transcripts
+* Methylation array information based on the latest manifest file
+
+
+RnBeads.mm10 2.1.0
 ==================
 
 * Release May 2021
